@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I am Deep Shankar Pratap Singh
 Use the left arrow to go back!
